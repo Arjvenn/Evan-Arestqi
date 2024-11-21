@@ -1,0 +1,106 @@
+.banner {
+  background: url("Restaurant.webp")
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.tim img {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+.client img {
+  height: auto;
+  max-height: 50px;
+}
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
+
+.display-6 {
+  color: black;
+}
+
+.display-1 {
+  color: black;
+}
+
+.container text-center{
+  color: black;
+}
+
+.paragraf {
+  background-color: #333;
+}
+
+.konten {
+  background-color: rgba(0,0,0, 0.7);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0,0,0, 0.5);
+}
+
+.card-text {
+  color: black;
+  background-color: white;
+}
+
+h4 {
+  color: black;
+}
+
+.y {
+  color: black;
+
+}
+.col a{
+
+  display: flex;
+justify-content: space-around;
+  color: black;
+  align-items: center;
+
+}
